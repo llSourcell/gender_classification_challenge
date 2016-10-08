@@ -26,4 +26,4 @@ Find 3 more classifiers from the sci-kit learn [documentation](http://scikit-lea
 
 ##Credits
 
-Credits for some of the code go to [https://github.com/chribsen](chribsen). I've merely created a wrapper to get people started easily.
+Credits for some of the code go to [chribsen](https://github.com/chribsen). I've merely created a wrapper to get people started easily.
